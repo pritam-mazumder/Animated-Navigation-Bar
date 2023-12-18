@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/news"
+        android:enabled="true"
+        android:icon="@drawable/check_news_fill"
+        android:title="News" />
+    <item
+        android:id="@+id/global"
+        android:enabled="true"
+        android:icon="@drawable/globe"
+        android:title="Global" />
+    <item
+        android:id="@+id/foryou"
+        android:enabled="true"
+        android:icon="@drawable/check_star_fill"
+        android:title="For You" />
+    <item
+        android:id="@+id/archive"
+        android:enabled="true"
+        android:icon="@drawable/check_archive_fill"
+        android:title="Archive" />
+    <item
+        android:id="@+id/trending"
+        android:enabled="true"
+        android:icon="@drawable/ternding"
+        android:title="Trending" />
+</menu>
